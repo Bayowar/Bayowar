@@ -12,7 +12,4 @@ Kindly click here _-> https://bayowar.github.io
 
 CV: [CV Bayowa](2025_DigitalResume.html)
 
-<!---
-Bayowar/Bayowar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
