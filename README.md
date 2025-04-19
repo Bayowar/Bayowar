@@ -10,6 +10,5 @@ Kindly click here _-> https://bayowar.github.io
 ### Contact
 [Email](bayowa.onabajo@bison.howard.edu, bayoonabajo1@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/bayowa-onabajo-mbchb-3b7993170/) | [Github](https://Bayowar.github.io/)
 
-CV: [CV Bayowa](2025_DigitalResume.html)
 
 
