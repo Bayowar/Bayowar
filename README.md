@@ -1,6 +1,6 @@
 👋 Hi, I’m @Bayowar.
 Kindly click here _-> https://bayowar.github.io
-👀 I’m interested in Data analysis
+👀 I’m interested in Data
 🌱 I’m currently learning all forms of data analysis and manipulation
 💞️ I’m looking to collaborate on new and exciting projects
 ⚡ Fun fact: I am a proficient sports player
