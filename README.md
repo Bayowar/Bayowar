@@ -1,4 +1,4 @@
-👋 Hi, I’m @Bayowar.
+👋 Hi, I am @Bayowar.
 Kindly click here _-> https://bayowar.github.io
 👀 I’m interested in Data
 🌱 I’m currently learning all forms of data analysis and manipulation
