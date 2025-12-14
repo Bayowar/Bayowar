@@ -44,3 +44,25 @@ This specific part of the project focuses on creating a general health risk pred
 - Develops a general health risk predictive model based on key indicators.
 - Identifies potential areas at high risk of general health and wellness deficit.
 - Aims to support data-driven decisions for resource allocation and service delivery.
+
+
+
+
+## Billboard's 50 Best Afrobeats Songs of the Past Decade
+## Overview
+
+Afrobeats has evolved from a regional West African sound into a globally influential musical movement over the past decade. This project explores Billboard’s curated list of the 50 Best Afrobeats Songs to analyze which tracks, artists, and time periods played a central role in shaping the genre’s global trajectory. Combining web extraction, data cleaning, exploratory analysis, and visualization, this work blends data science with cultural inquiry to better understand Afrobeats' on the world stage.
+
+## Objectives
+
+Extract the top 50 Afrobeats songs from Billboard’s webpage.
+Clean and structure the extracted data for analysis.
+Perform exploratory data analysis and basic visualizations.
+Create a summary of findings in Markdown and an optional CSV for future analysis.
+
+## Methods
+
+- Web Extraction: Used requests and BeautifulSoup to scrape song rankings, artists, titles, release years, and descriptions from Billboard’s list.
+- Data Cleaning: Employed pandas and regex to parse and clean the extracted text, remove irrelevant content, and convert data types.
+- Analysis & Visualization: Conducted temporal and artist-level analyses using matplotlib and seaborn to visualize trends in song releases and artist representation. [link here]().
+
