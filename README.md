@@ -9,7 +9,7 @@ Kindly click here _-> https://bayowar.github.io
 # Data Science Portfolio
 ## Bayowa Onabajo
 ### Contact
-[Email](bayowa.onabajo@bison.howard.edu, bayoonabajo1@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/bayowa-o-onabajo-mbchb-3b7993170/) | [Github](https://Bayowar.github.io/)
+[Email](bayowa.onabajo@bison.howard.edu, bayoonabajo1@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/bayowa-o-onabajo-mbchb-3b7993170/) | [Github](https://github.com/Bayowar)
 
 CV: [CV Bayowa](https://bayowar.github.io/2025_DigitalResume.html)
 
